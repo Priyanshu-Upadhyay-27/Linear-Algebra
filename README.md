@@ -13,7 +13,7 @@ The core objective is to reduce the feature space while retaining the maximum po
 This practical implementation is backed by formal study. 
 * **Course/Specialization:** Mathematics for Machine Learning
 * **Issuing Authority:** Coursera / DeepLearning.AI
-* **Credential:** [Link to verified certificate here]
+* **Credential:** https://coursera.org/share/1b8324dae6f1c7c229c44687a73500d9
 
 *(See the attached practical report for the physical copy of the certification).*
 
@@ -71,4 +71,4 @@ This repository is intended to serve as a personal portfolio piece and proof of 
 
 ---
 **Author:** Priyanshu Upadhyay  
-*Computer Science and Engineering Undergraduate | KIET Group of Institutions*
+*Computer Science Undergraduate | KIET Group of Institutions*
